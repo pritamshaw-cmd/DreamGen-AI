@@ -1,0 +1,8 @@
+{
+  "name": "DreamGen AI - Next-Gen Image Studio",
+  "description": "A high-performance AI image generation studio powered by Gemini, featuring advanced style controls, prompt enhancement, and image-to-image capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
